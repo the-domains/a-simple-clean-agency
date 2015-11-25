@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[a simple + clean agency]]></title>
-        <description><![CDATA[a simple + clean agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Advertising + Branding for Modern Day Commerce]]></title>
+        <description><![CDATA[Advertising + Branding for Modern Day Commerce]]></description>
+        <link>https://thegrid.ai/a-simple-clean-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 02:44:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 02:48:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-simple-clean-agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a simple + clean Advertising Guide for the Holidays]]></title>
             <description><![CDATA[<article><h1>a simple + clean Advertising Guide for the Holidays</h1><p>November + December makeup 80%+ of 2015 revenue, so make sure that your Advertising attracts, converts, and engages your highly targeted customers.</p></article>]]></description>
-            <link>undefineda-simple-clean-advertising-guide-for-the-holidays/index.html</link>
+            <link>https://thegrid.ai/a-simple-clean-agency/a-simple-clean-advertising-guide-for-the-holidays/index.html</link>
             <guid isPermaLink="false">7eb130b7-4fbb-4aae-80e3-d16044c397b3</guid>
-            <pubDate>Wed, 25 Nov 2015 02:44:44 GMT</pubDate>
+            <pubDate>Wed, 25 Nov 2015 02:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
