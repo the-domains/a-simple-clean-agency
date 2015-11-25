@@ -1,7 +1,7 @@
 name: a simple + clean agency
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.00684
+layout_spectrum: 0.5
+typography_spectrum: 0
 title: Advertising + Branding for Modern Day Commerce
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.75
   saturation: 0.375
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
