@@ -1,7 +1,7 @@
 name: a simple + clean agency
 favicon: null
-layout_spectrum: 0.6331628654152155
-typography_spectrum: 0.22536267223767936
+layout_spectrum: 0.99947
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.010717454832047224
-  lightness: 0.6577632487751544
-  saturation: 0.6234086523763835
-  rhythmicContrast: 0.6137122444342822
+    - '#ffffff'
+    - '#111634'
+    - '#726056'
+    - '#fe9456'
+    - '#c9331b'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
