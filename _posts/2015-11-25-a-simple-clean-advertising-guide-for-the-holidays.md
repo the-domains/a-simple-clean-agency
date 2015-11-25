@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'November + December makeup 80%+ of 2015 revenue, so make sure that your Advertising attracts, converts, and engages your highly targeted customers'
-datePublished: '2015-11-25T02:44:44.448Z'
-dateModified: '2015-11-25T02:44:14.607Z'
+datePublished: '2015-11-25T02:48:11.813Z'
+dateModified: '2015-11-25T02:44:44.448Z'
 title: a simple + clean Advertising Guide for the Holidays
 author: []
 authors: []
